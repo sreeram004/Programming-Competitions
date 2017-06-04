@@ -1,0 +1,15 @@
+Given 2 Strings C, S. Find the number of occurrences of C in S
+
+Length of S is N, length of C is M
+
+Input:
+
+Given 2 Strings C,S.
+
+Output:
+
+Print the number of occurrences of C in S.
+
+Constraints:
+
+1 <= M <= N <= 10^5
