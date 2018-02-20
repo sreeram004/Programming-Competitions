@@ -6,8 +6,8 @@ import comtypes.client
 
 wdFormatPDF = 17
 
-WORD_FILE_NAME = 'Abstract.docx'
-PDF_FILE_NAME = 'Abstract_Converted.pdf'
+WORD_FILE_NAME = 'word_file_name.docx'
+PDF_FILE_NAME = 'pdf_file_name.pdf'
 
 
 in_file = os.path.abspath(WORD_FILE_NAME)
